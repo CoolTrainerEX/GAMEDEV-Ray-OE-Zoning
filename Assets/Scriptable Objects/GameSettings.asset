@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c56ac5df21a6164cbf034d8162daf7d, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: Assembly-CSharp::GameSettings
+  winSound: {fileID: 8300000, guid: 5ad033f8b89ffb54c91a79a02f67bd03, type: 3}
+  loseSound: {fileID: 8300000, guid: 0bb8149221969b649a3e4b59315a3412, type: 3}
+  cameraSpeed: 30
+  activeMaterial: {fileID: 2100000, guid: 235180098dced9744b1b3b9526238fa8, type: 2}
+  inactiveMaterial: {fileID: 2100000, guid: f528041d11aef1a45bd38df1d81be82c, type: 2}
